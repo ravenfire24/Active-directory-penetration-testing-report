@@ -2,7 +2,7 @@
 Comprehensive penetration testing report for Active Directory environments, including methodologies, findings, and security recommendations.
 
 ## Overview
-This README provides a guide to understanding the accompanying penetration testing report titled **"Attacking Active Directory"**. The report outlines the methodologies, findings, and recommendations for improving the security posture of an Active Directory (AD) environment. 
+The report outlines the methodologies, findings, and recommendations for improving the security posture of an Active Directory (AD) environment. 
 
 The report is structured to provide clear, actionable insights for both technical and managerial audiences.
 
