@@ -64,4 +64,12 @@ Key tools and commands used in the assessment:
 - **Nmap:** `nmap --script smb-enum-shares -p 139,445 <IP range>`
 - **CrackMapExec:** `crackmapexec smb <IP range> -d <domain> -u <user> -p <password>`
 - **Impacket:** `secretsdump.py <domain>/<user>:<password>@<IP>`
-- **Evil-WinRM:** A popular WinRM shell for pentesters. Refer to the tool on [GitHub](https://github.com/Hackplayers/evil-winrm).
+- **Evil-WinRM:** A popular WinRM shell for pentesters.
+
+## Additional Resources
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound)
+- [Impacket](https://github.com/SecureAuthCorp/impacket)
+- [CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec)
+- [Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
+
+---
