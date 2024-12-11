@@ -2,9 +2,7 @@
 Comprehensive penetration testing report for Active Directory environments, including methodologies, findings, and security recommendations.
 
 ## Overview
-The report outlines the methodologies, findings, and recommendations for improving the security posture of an Active Directory (AD) environment. 
-
-The report is structured to provide clear, actionable insights for both technical and managerial audiences.
+The report outlines various techniques and tools used for enumerating and exploiting vulnerabilities within an AD environment. The report provides step-by-step methodologies for each attack vector, including privilege escalation, lateral movement, and password attacks, as well as remediation recommendations to enhance security posture.
 
 ---
 
