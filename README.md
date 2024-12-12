@@ -1,4 +1,4 @@
-# Active-directory-penetration-report
+# Active-directory-penetration-testing-report
 Comprehensive penetration testing report for Active Directory environments, including methodologies, findings, and security recommendations.
 
 ## Overview
