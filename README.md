@@ -1,6 +1,6 @@
 # Active-directory-penetration-testing-report
 Comprehensive penetration testing report for Active Directory environments, including methodologies, findings, and security recommendations.
-
+![alt text](https://github.com/ravenfire24/Active-directory-penetration-testing-report/blob/3fdfdfe360f44606576101b2181738a73bd47e1d/screenshot%205.png)
 ## Overview
 The report outlines various techniques and tools used for enumerating and exploiting vulnerabilities within an AD environment. The report provides step-by-step methodologies for each attack vector, including privilege escalation, lateral movement, and password attacks, as well as remediation recommendations to enhance security posture.
 
@@ -71,3 +71,7 @@ Key tools and commands used in the assessment:
 - [Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
 
 ---
+![alt text](https://github.com/ravenfire24/Active-directory-penetration-testing-report/blob/3fdfdfe360f44606576101b2181738a73bd47e1d/screenshot%201.png)
+![alt text](https://github.com/ravenfire24/Active-directory-penetration-testing-report/blob/3fdfdfe360f44606576101b2181738a73bd47e1d/screenshot%203.png)
+![alt text](https://github.com/ravenfire24/Active-directory-penetration-testing-report/blob/3fdfdfe360f44606576101b2181738a73bd47e1d/screenshot%206.png)
+![alt text](https://github.com/ravenfire24/Active-directory-penetration-testing-report/blob/3fdfdfe360f44606576101b2181738a73bd47e1d/screenshot%202.png)
